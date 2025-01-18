@@ -679,17 +679,14 @@ img.hover-shadow {
   <span>El análisis de modos y efectos de fallas (FMEA, por sus siglas en inglés) es una herramienta estructurada que permite identificar, analizar y priorizar posibles problemas en un sistema, proceso, diseño, producto o servicio. Su principal objetivo es anticipar fallas antes de que ocurran, mejorando así la confiabilidad, seguridad y calidad</span>
     </div>
     
-   <p class="sin">
+  <p class="sin">
       Offer valid until 29th April, 2023 *
     </p>
   </div>
 </div>
-</div>
-</div>
 
-  </div>
-  <div class="container mt-5">
-  <div class="row">
+
+   </div>
     <div class="col-sm-4">
 
 <div class="Analisis">
@@ -699,23 +696,20 @@ img.hover-shadow {
       Modo de Fallas
     </p>
 
-  <div class="text-2">
+   <div class="text-2">
 
-   <span>Esto se refiere a las maneras específicas en que un sistema o componente podría fallar. En otras palabras, ¿qué podría salir mal?
+  <span>Esto se refiere a las maneras específicas en que un sistema o componente podría fallar. En otras palabras, ¿qué podría salir mal?
 </span>
     </div>
     
-  <p class="sin">
+   <p class="sin">
       Offer valid until 29th April, 2023 *
     </p>
   </div>
 </div>
-<div>
-</div>
     </div>
 
-<div class="container mt-5">
-  <div class="row">
+
   <div class="col-sm-4">
 <div class="Analisis">
   <div class="imagene"><img src="https://i.pinimg.com/736x/9b/e5/65/9be565cb56b49790d256d28d98140818.jpg" alt="Gi" width="300" height="128"></div>
@@ -737,8 +731,7 @@ img.hover-shadow {
   </div>
 </div>
     </div>
-</div>
-</div>
+
 
 
 </div>
@@ -746,8 +739,7 @@ img.hover-shadow {
 
  
 
-<div class="container mt-5">
-  <div class="row">
+
 <div class="container mt-5">
   <div class="row"> 
     <div class="col-sm-4">
@@ -759,20 +751,18 @@ img.hover-shadow {
       Causa de Falla
     </p>
 
-  <div class="text-2">
+   <div class="text-2">
 
   <span>Se identifican las razones o condiciones que podrían provocar la falla. ¿Por qué sucedería?
 
 </span>
     </div>
     
-  <p class="sin">
+   <p class="sin">
       Offer valid until 29th April, 2023 *
     </p>
   </div>
 </div>
-    </div>
-    </div>
     </div>
 <br>
 
@@ -780,9 +770,8 @@ img.hover-shadow {
 
 
 
-<div class="container mt-5">
-  <div class="row">
-   <div class="col-sm-4">
+
+  <div class="col-sm-4">
 
 <div class="Analisis">
   <div class="imagene"><img src="https://i.pinimg.com/736x/16/d7/74/16d774f401e0aa9d589831764b3be204.jpg" alt="Gi" width="300" height="128"></div>
@@ -791,30 +780,28 @@ img.hover-shadow {
       Severidad (S)
     </p>
 
-  <div class="text-2">
+   <div class="text-2">
 
-   <span> Evalúa qué tan grave sería el efecto de la falla en caso de que ocurra. Se usa una escala, generalmente de 1 (efecto menor) a 10 (efecto crítico).
+  <span> Evalúa qué tan grave sería el efecto de la falla en caso de que ocurra. Se usa una escala, generalmente de 1 (efecto menor) a 10 (efecto crítico).
 
 
 </span>
     </div>
     
-  <p class="sin">
+   <p class="sin">
       Offer valid until 29th April, 2023 *
     </p>
   </div>
 </div>
     </div>
-</div>
-</div>
 
 
 
 
 
 
-<div class="container mt-5">
-  <div class="row">
+
+
  <div class="col-sm-4">
 
 <div class="Analisis">
@@ -833,7 +820,7 @@ img.hover-shadow {
 </span>
     </div>
     
-  <p class="sin">
+   <p class="sin">
       Offer valid until 29th April, 2023 *
     </p>
   </div>
@@ -957,7 +944,7 @@ img.hover-shadow {
 
 </p>
       
-  </div>
+   </div>
     <div class="col-sm-4">
       <h3>Analisis</h3>
       <p>Al igual que en el AMEF, las fallas se priorizan con base en su gravedad, frecuencia y facilidad de detección. Esto permite decidir qué problemas deben abordarse primero, ya sea mediante medidas preventivas o correctivas.
@@ -1019,7 +1006,7 @@ El PFEMDA combina la prevención de fallas con un enfoque práctico en el diagn�
 </p>
     
    </div>
-  <div class="col-sm-4">
+    <div class="col-sm-4">
       <h3>Comceptos y Claves</h3>
       <p>Variabilidad en los procesos:
 Todos los procesos tienen algún nivel de variación, que puede clasificarse en dos tipos:
@@ -1083,12 +1070,12 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
       <img src="https://i.pinimg.com/736x/f8/b9/cb/f8b9cb5d84807ef441428ccf4debc76d.jpg" style="width:100%">
     </div>
 
-  <div class="mySlides">
+   <div class="mySlides">
       <div class="numbertext">2 / 4</div>
       <img src="https://i.pinimg.com/736x/b3/cc/9e/b3cc9ed4b8da50151c4763649394fa4d.jpg" style="width:100%">
     </div>
 
-  <div class="mySlides">
+   <div class="mySlides">
       <div class="numbertext">3 / 4</div>
       <img src="https://i.pinimg.com/736x/6a/0b/cb/6a0bcb5dc34645ad15efd6e0d45ce736.jpg" style="width:100%">
     </div>
@@ -1096,16 +1083,17 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
    <div class="mySlides">
       <div class="numbertext">4 / 4</div>
       <img src="https://i.pinimg.com/736x/43/a7/6d/43a76da7b731ad302a35f09717306067.jpg" style="width:100%">
-    </div> 
-   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-   <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
    <div class="caption-container">
       <p id="caption"></p>
     </div>
 
 
- <div class="column">
+  <div class="column">
       <img class="demo cursor" src="https://i.pinimg.com/736x/f8/b9/cb/f8b9cb5d84807ef441428ccf4debc76d.jpg" style="width:100%" onclick="currentSlide(1)" alt="Nature and sunrise">
     </div>
     <div class="column">
@@ -1187,16 +1175,16 @@ Se incluyen copias del diseño aprobado, como planos técnicos o especificacione
 
 </p>
     
-  </div>
-    <div class="col-sm-4">
+   </div>
+  <div class="col-sm-4">
       
 
 <img src="https://i.pinimg.com/736x/2e/bd/62/2ebd62360a8b64cacfc4a66e6db72696.jpg" alt="Girl in a jacket" width="400" height="300">
     
    </div>
-    <div class="col-sm-4">
+   <div class="col-sm-4">
            
-   <p>Registro de pruebas:
+  <p>Registro de pruebas:
 Evidencia de que las piezas cumplen con los requisitos de pruebas físicas, químicas y de rendimiento.
 Informe dimensional:
 Resultados detallados de las mediciones de las piezas comparadas con el diseño aprobado.
@@ -1335,3 +1323,4 @@ function showSlides(n) {
    
 </body>
 </html> 
+
