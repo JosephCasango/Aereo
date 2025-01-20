@@ -680,8 +680,8 @@ img.hover-shadow {
     </div>
     
   <p class="sin">
-      Offer valid until 29th April, 2023 *
-    </p>
+    
+  </p>
   </div>
 </div>
 
@@ -726,8 +726,8 @@ img.hover-shadow {
     </div>
     
    <p class="sin">
-      Offer valid until 29th April, 2023 *
-    </p>
+   
+   </p>
   </div>
 </div>
     </div>
@@ -759,8 +759,8 @@ img.hover-shadow {
     </div>
     
    <p class="sin">
-      Offer valid until 29th April, 2023 *
-    </p>
+    
+  </p>
   </div>
 </div>
     </div>
@@ -789,8 +789,8 @@ img.hover-shadow {
     </div>
     
    <p class="sin">
-      Offer valid until 29th April, 2023 *
-    </p>
+      
+   </p>
   </div>
 </div>
     </div>
@@ -821,8 +821,8 @@ img.hover-shadow {
     </div>
     
    <p class="sin">
-      Offer valid until 29th April, 2023 *
-    </p>
+    
+  </p>
   </div>
 </div>
     </div>
@@ -864,7 +864,7 @@ img.hover-shadow {
 
 
 
-</div>
+
 
 
 
@@ -948,7 +948,6 @@ img.hover-shadow {
     <div class="col-sm-4">
       <h3>Analisis</h3>
       <p>Al igual que en el AMEF, las fallas se priorizan con base en su gravedad, frecuencia y facilidad de detección. Esto permite decidir qué problemas deben abordarse primero, ya sea mediante medidas preventivas o correctivas.
-El PFEMDA combina la prevención de fallas con un enfoque práctico en el diagnóstico y resolución. Esto mejora no solo la confiabilidad de los sistemas, sino también la capacidad de respuesta ante problemas cuando ocurren, reduciendo así el impacto en los procesos y usuarios.
 
 </p>
       
@@ -1002,7 +1001,7 @@ El PFEMDA combina la prevención de fallas con un enfoque práctico en el diagn�
   <div class="row">
     <div class="col-sm-4">
       <h3>CEP</h3>
-      <p>El Control Estadístico de Procesos (CEP), conocido en inglés como Statistical Process Control (SPC), es una técnica que utiliza herramientas estadísticas para supervisar, medir y mejorar la calidad de los procesos productivos. Su propósito principal es garantizar que los productos o servicios cumplan con los estándares establecidos, identificando y gestionando la variabilidad en los procesos.El Control Estadístico de Procesos (CEP), conocido en inglés como Statistical Process Control (SPC), es una técnica que utiliza herramientas estadísticas para supervisar, medir y mejorar la calidad de los procesos productivos. Su propósito principal es garantizar que los productos o servicios cumplan con los estándares establecidos, identificando y gestionando la variabilidad en los procesos.
+      <p>El Control Estadístico de Procesos (CEP), conocido en inglés como Statistical Process Control (SPC), es una técnica que utiliza herramientas estadísticas para supervisar, medir y mejorar la calidad de los procesos productivos. Su propósito principal es garantizar que los productos o servicios cumplan con los estándares establecidos, identificando y gestionando la variabilidad en los procesos.
 </p>
     
    </div>
@@ -1016,7 +1015,6 @@ El CEP ayuda a diferenciar entre estas dos para enfocar los esfuerzos de mejora.
 Herramientas estadísticas:
 Se utilizan gráficos y análisis de datos para monitorear los procesos, como:
 Gráficos de control: Detectan desviaciones respecto a los límites establecidos.
-Histogramas: Muestran la distribución de los datos.
 </p>
     
   </div>
@@ -1169,9 +1167,7 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
         El PPAP (Proceso de Aprobación de Partes de Producción) es un procedimiento estándar, especialmente en la industria automotriz, diseñado para garantizar que los proveedores puedan fabricar piezas o componentes que cumplan con las especificaciones y requisitos del cliente antes de comenzar la producción en masa.
 Objetivo del PPAP:
 El propósito principal es demostrar que los procesos de fabricación del proveedor son consistentes y que los productos cumplen con los estándares técnicos y de calidad del cliente.
-Elementos clave del PPAP:
-Diseño registrado por el cliente:
-Se incluyen copias del diseño aprobado, como planos técnicos o especificaciones detalladas.
+
 
 </p>
     
@@ -1190,10 +1186,7 @@ Informe dimensional:
 Resultados detallados de las mediciones de las piezas comparadas con el diseño aprobado.
 AMEF del diseño y proceso:
 Evaluaciones de riesgos para identificar posibles fallas en el diseño y el proceso de fabricación.
-Evidencia de cumplimiento:
-Certificados o registros que demuestran que los materiales y procesos cumplen con las especificaciones requeridas.
-Aprobación del cliente:
-Validación final por parte del cliente mediante firma o aceptación oficial.</p>
+</p>
 
    </div>
   </div>
