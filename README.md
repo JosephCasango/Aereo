@@ -1105,11 +1105,11 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
     </div>
     
   <div class="column">
-      <img class="demo cursor" src="https://i.pinimg.com/736x/9b/05/ba/9b05ba561a1c0e47548e613d7e07d1b8.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      <img class="demo cursor" src="https://i.pinimg.com/736x/9b/05/ba/9b05ba561a1c0e47548e613d7e07d1b8.jpg" style="width:100%" onclick="currentSlide(4)" alt="Mountains and fjords">
     </div>
     
   <div class="column">
-      <img class="demo cursor" src="https://i.pinimg.com/736x/16/03/5d/16035d193f863a0ea5d14338124e2b92.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+      <img class="demo cursor" src="https://i.pinimg.com/736x/16/03/5d/16035d193f863a0ea5d14338124e2b92.jpg" style="width:100%" onclick="currentSlide(5)" alt="Northern Lights">
     </div>
   </div>
 </div>
