@@ -651,7 +651,7 @@ img.hover-shadow {
 }
 
 /* Fading animation */
-.fade {
+.fading {
   animation-name: fade;
   animation-duration: 1.5s;
 }
@@ -976,9 +976,10 @@ img.hover-shadow {
 
 
 
-
-
-
+   
+</div>
+  
+<div class="container mt-5">
 
 
 
@@ -1003,38 +1004,38 @@ img.hover-shadow {
 
 <div class="GrupoImagenes">
 
-<div class="Sliter fade">
+<div class="Sliter fading">
   <div class="numero">1 / 6</div>
   <img src="https://i.pinimg.com/736x/ac/ba/28/acba2836c507e66eb0fbfbd6ebfe5a63.jpg" style="width:100%">
   <div class="textual">Procesos</div>
 </div>
 
-<div class="Sliter fade">
+<div class="Sliter fading">
   <div class="numero">2 / 6</div>
   <img src="https://i.pinimg.com/736x/07/98/83/079883d1174c5a85181a5e9cf116972d.jpg" style="width:100%">
   <div class="textual">Fallas</div>
 </div>
 
-<div class="Sliter fade">
+<div class="Sliter fading">
   <div class="numero">3 / 6</div>
   <img src="https://i.pinimg.com/736x/4b/c9/bd/4bc9bd226fd4f7442c62c5bf223c6f3b.jpg" style="width:100%">
   <div class="textual">Efectos</div>
 </div>
 
 
-<div class="Sliter fade">
+<div class="Sliter fading">
   <div class="numero">4 / 6</div>
   <img src="https://i.pinimg.com/736x/63/04/0e/63040e20e85efd172061a1d4d5a8e926.jpg" style="width:100%">
   <div class="textual">Modo</div>
 </div>
 
-<div class="Sliter fade">
+<div class="Sliter fading">
   <div class="numero">5 / 6</div>
   <img src="https://i.pinimg.com/736x/0d/02/93/0d029394ddf2dde8999f180f484d4b68.jpg" style="width:100%">
   <div class="textual">Diagnostico</div>
 </div>
 
-<div class="Sliter fade">
+<div class="Sliter fading">
   <div class="numero">6 / 6</div>
   <img src="https://i.pinimg.com/736x/0c/6f/cc/0c6fcc3fbdb8c3e8152ec720d38a92ad.jpg" style="width:100%">
   <div class="textual">Analisis</div>
@@ -1058,22 +1059,7 @@ img.hover-shadow {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-   
-</div>
   
-<div class="container mt-5">
   <div class="row">
     <div class="col-sm-4">
       <h3>Proceso</h3>
