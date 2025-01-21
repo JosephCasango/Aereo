@@ -608,54 +608,6 @@ img.hover-shadow {
 
 
 
-/* Slideshow container */
-.GrupoImagenes {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
-}
-
-/* Caption text */
-.textual {
-  color: green;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numero {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.doting {
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fading {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
 
 
 
@@ -1001,47 +953,6 @@ img.hover-shadow {
 
 
 
-
-<div class="GrupoImagenes">
-
-<div class="Sliter fading">
-  <div class="numero">1 / 6</div>
-  <img src="https://i.pinimg.com/736x/ac/ba/28/acba2836c507e66eb0fbfbd6ebfe5a63.jpg" style="width:100%">
-  <div class="textual">Procesos</div>
-</div>
-
-<div class="Sliter fading">
-  <div class="numero">2 / 6</div>
-  <img src="https://i.pinimg.com/736x/07/98/83/079883d1174c5a85181a5e9cf116972d.jpg" style="width:100%">
-  <div class="textual">Fallas</div>
-</div>
-
-<div class="Sliter fading">
-  <div class="numero">3 / 6</div>
-  <img src="https://i.pinimg.com/736x/4b/c9/bd/4bc9bd226fd4f7442c62c5bf223c6f3b.jpg" style="width:100%">
-  <div class="textual">Efectos</div>
-</div>
-
-
-<div class="Sliter fading">
-  <div class="numero">4 / 6</div>
-  <img src="https://i.pinimg.com/736x/63/04/0e/63040e20e85efd172061a1d4d5a8e926.jpg" style="width:100%">
-  <div class="textual">Modo</div>
-</div>
-
-<div class="Sliter fading">
-  <div class="numero">5 / 6</div>
-  <img src="https://i.pinimg.com/736x/0d/02/93/0d029394ddf2dde8999f180f484d4b68.jpg" style="width:100%">
-  <div class="textual">Diagnostico</div>
-</div>
-
-<div class="Sliter fading">
-  <div class="numero">6 / 6</div>
-  <img src="https://i.pinimg.com/736x/0c/6f/cc/0c6fcc3fbdb8c3e8152ec720d38a92ad.jpg" style="width:100%">
-  <div class="textual">Analisis</div>
-</div>
-
-</div>
 
 
 
@@ -1532,25 +1443,6 @@ function showSlides(n) {
 
 
 
-let slideIndex = 0;
-showSlides();
-
-function showSlides() {
-  let i;
-  let slides = document.getElementsByClassName("Sliter");
-  let dots = document.getElementsByClassName("doting");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 5000); // Change image every 5 seconds
-}
 
 </script>
    
