@@ -1105,6 +1105,7 @@ Variabilidad especial: Resulta de problemas específicos o anomalías.
       <p>El CEP se enfoca en identificar posibles problemas antes de que afecten la calidad del producto o servicio, reduciendo desperdicios y evitando fallas en etapas avanzadas.
 El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del proceso al anticipar y corregir problemas antes de que se vuelvan significativos.</p>
 
+<a href="https://www.personalacademy.org/pages/blog?p=c%C3%B3mo-leer-un-estudio-de-capacidad-correctamente" target="_blank">Mas Informacion</a>
    </div>
   </div>
 </div>
