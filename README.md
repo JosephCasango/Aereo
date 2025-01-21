@@ -1001,7 +1001,7 @@ img.hover-shadow {
   <div class="row">
     <div class="col-sm-4">
       <h3>CEP</h3>
-      <p>El Control Estadístico de Procesos (CEP), conocido en inglés como Statistical Process Control (SPC), es una técnica que utiliza herramientas estadísticas para supervisar, medir y mejorar la calidad de los procesos productivos. Su propósito principal es garantizar que los productos o servicios cumplan con los estándares establecidos, identificando y gestionando la variabilidad en los procesos.
+      <p>El Control Estadístico de Procesos (CEP), conocido en inglés como Statistical Process Control (SPC), es una técnica que utiliza herramientas estadísticas para supervisar, medir y mejorar la calidad de los procesos productivos.
 </p>
     
    </div>
@@ -1011,17 +1011,13 @@ img.hover-shadow {
 Todos los procesos tienen algún nivel de variación, que puede clasificarse en dos tipos:
 Variabilidad común: Surge de factores naturales inherentes al proceso.
 Variabilidad especial: Resulta de problemas específicos o anomalías.
-El CEP ayuda a diferenciar entre estas dos para enfocar los esfuerzos de mejora.
-Herramientas estadísticas:
-Se utilizan gráficos y análisis de datos para monitorear los procesos, como:
-Gráficos de control: Detectan desviaciones respecto a los límites establecidos.
 </p>
     
   </div>
     <div class="col-sm-4">
       <h3>CEP Prevencion</h3>        
       <p>El CEP se enfoca en identificar posibles problemas antes de que afecten la calidad del producto o servicio, reduciendo desperdicios y evitando fallas en etapas avanzadas.
-El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del proceso al anticipar y corregir problemas antes de que se vuelvan significativos. Es una metodología proactiva que asegura productos consistentes y procesos estables.</p>
+El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del proceso al anticipar y corregir problemas antes de que se vuelvan significativos.</p>
 
    </div>
   </div>
@@ -1165,8 +1161,6 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
       
    <p>
         El PPAP (Proceso de Aprobación de Partes de Producción) es un procedimiento estándar, especialmente en la industria automotriz, diseñado para garantizar que los proveedores puedan fabricar piezas o componentes que cumplan con las especificaciones y requisitos del cliente antes de comenzar la producción en masa.
-Objetivo del PPAP:
-El propósito principal es demostrar que los procesos de fabricación del proveedor son consistentes y que los productos cumplen con los estándares técnicos y de calidad del cliente.
 
 
 </p>
@@ -1184,8 +1178,7 @@ El propósito principal es demostrar que los procesos de fabricación del provee
 Evidencia de que las piezas cumplen con los requisitos de pruebas físicas, químicas y de rendimiento.
 Informe dimensional:
 Resultados detallados de las mediciones de las piezas comparadas con el diseño aprobado.
-AMEF del diseño y proceso:
-Evaluaciones de riesgos para identificar posibles fallas en el diseño y el proceso de fabricación.
+
 </p>
 
    </div>
