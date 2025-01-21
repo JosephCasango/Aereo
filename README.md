@@ -1048,13 +1048,13 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
     <img src="https://i.pinimg.com/736x/b9/34/03/b93403dd4c22378b80253bcf7cb5536a.jpg" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
   </div>
   <div class="column">
-    <img src="https://i.pinimg.com/736x/a9/ee/f2/a9eef22eb029950b7b8c978256761ab3.jpg" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+    <img src="https://i.pinimg.com/736x/16/03/5d/16035d193f863a0ea5d14338124e2b92.jpg" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
   </div>
   <div class="column">
     <img src="https://i.pinimg.com/736x/9b/05/ba/9b05ba561a1c0e47548e613d7e07d1b8.jpg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
   </div>
     <div class="column">
-    <img src="https://i.pinimg.com/736x/16/03/5d/16035d193f863a0ea5d14338124e2b92.jpg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+    <img src="https://i.pinimg.com/736x/a9/ee/f2/a9eef22eb029950b7b8c978256761ab3.jpg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
   </div>
 </div>
 
@@ -1074,7 +1074,7 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
 
    <div class="mySlides">
       <div class="numbertext">3 / 5</div>
-      <img src="https://i.pinimg.com/736x/a9/ee/f2/a9eef22eb029950b7b8c978256761ab3.jpg" style="width:100%">
+      <img src="https://i.pinimg.com/736x/16/03/5d/16035d193f863a0ea5d14338124e2b92.jpg" style="width:100%">
     </div>
     
    <div class="mySlides">
@@ -1083,7 +1083,7 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
     </div>
        <div class="mySlides">
       <div class="numbertext">5 / 5</div>
-      <img src="https://i.pinimg.com/736x/16/03/5d/16035d193f863a0ea5d14338124e2b92.jpg" style="width:100%">
+      <img src="https://i.pinimg.com/736x/a9/ee/f2/a9eef22eb029950b7b8c978256761ab3.jpg" style="width:100%">
     </div>
     
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -1101,7 +1101,7 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
       <img class="demo cursor" src="https://i.pinimg.com/736x/b9/34/03/b93403dd4c22378b80253bcf7cb5536a.jpg" style="width:100%" onclick="currentSlide(2)" alt="Snow">
     </div>
         <div class="column">
-      <img class="demo cursor" src="https://i.pinimg.com/736x/a9/ee/f2/a9eef22eb029950b7b8c978256761ab3.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      <img class="demo cursor" src="https://i.pinimg.com/736x/16/03/5d/16035d193f863a0ea5d14338124e2b92.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
     </div>
     
   <div class="column">
@@ -1109,7 +1109,7 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
     </div>
     
   <div class="column">
-      <img class="demo cursor" src="https://i.pinimg.com/736x/16/03/5d/16035d193f863a0ea5d14338124e2b92.jpg" style="width:100%" onclick="currentSlide(5)" alt="Northern Lights">
+      <img class="demo cursor" src="https://i.pinimg.com/736x/a9/ee/f2/a9eef22eb029950b7b8c978256761ab3.jpg" style="width:100%" onclick="currentSlide(5)" alt="Northern Lights">
     </div>
   </div>
 </div>
@@ -1173,15 +1173,19 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
       
    <p>
         El PPAP (Proceso de Aprobación de Partes de Producción) es un procedimiento estándar, especialmente en la industria automotriz, diseñado para garantizar que los proveedores puedan fabricar piezas o componentes que cumplan con las especificaciones y requisitos del cliente antes de comenzar la producción en masa.
+        
 
 
 </p>
+
+
+<img src="https://i.pinimg.com/736x/30/72/f3/3072f3d991ad8f3c6c93ab47994a4183.jpg" alt="Girl in a jacket" width="400" height="300">
     
    </div>
   <div class="col-sm-4">
       
 
-<img src="https://i.pinimg.com/736x/2e/bd/62/2ebd62360a8b64cacfc4a66e6db72696.jpg" alt="Girl in a jacket" width="400" height="300">
+<img src="https://i.pinimg.com/736x/37/3e/d3/373ed3e548275f7a22fab498e4ab69a2.jpg" alt="Girl in a jacket" width="400" height="300">
     
    </div>
    <div class="col-sm-4">
@@ -1192,7 +1196,7 @@ Informe dimensional:
 Resultados detallados de las mediciones de las piezas comparadas con el diseño aprobado.
 
 </p>
-
+<img src="https://i.pinimg.com/736x/2e/bd/62/2ebd62360a8b64cacfc4a66e6db72696.jpg" alt="Girl in a jacket" width="400" height="300">
    </div>
   </div>
 </div>
