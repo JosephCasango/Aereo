@@ -1042,16 +1042,16 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
 
 <div class="row">
   <div class="column">
-    <img src="https://i.pinimg.com/736x/f8/b9/cb/f8b9cb5d84807ef441428ccf4debc76d.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+    <img src="https://i.pinimg.com/736x/25/67/95/256795c87f033985a28d3e9566c8c406.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
   </div>
   <div class="column">
-    <img src="https://i.pinimg.com/736x/b3/cc/9e/b3cc9ed4b8da50151c4763649394fa4d.jpg" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+    <img src="https://i.pinimg.com/736x/b9/34/03/b93403dd4c22378b80253bcf7cb5536a.jpg" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
   </div>
   <div class="column">
-    <img src="https://i.pinimg.com/736x/6a/0b/cb/6a0bcb5dc34645ad15efd6e0d45ce736.jpg" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+    <img src="https://i.pinimg.com/736x/a9/ee/f2/a9eef22eb029950b7b8c978256761ab3.jpg" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
   </div>
   <div class="column">
-    <img src="https://i.pinimg.com/736x/43/a7/6d/43a76da7b731ad302a35f09717306067.jpg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+    <img src="https://i.pinimg.com/736x/9b/05/ba/9b05ba561a1c0e47548e613d7e07d1b8.jpg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
   </div>
 </div>
 
