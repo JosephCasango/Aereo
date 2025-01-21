@@ -1190,11 +1190,18 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
    </div>
    <div class="col-sm-4">
            
-  <p>Registro de pruebas:
-Evidencia de que las piezas cumplen con los requisitos de pruebas físicas, químicas y de rendimiento.
-Informe dimensional:
-Resultados detallados de las mediciones de las piezas comparadas con el diseño aprobado.
-
+  <p>
+-Planificación
+</p>
+<p>
+  Producción
+</p>
+<p>
+  Postproducción
+</p>
+<br>
+<p>
+  En cada etapa, el proveedor y el cliente deben trabajar juntos para garantizar que las piezas cumplan con las especificaciones del cliente.
 </p>
 <img src="https://i.pinimg.com/736x/2e/bd/62/2ebd62360a8b64cacfc4a66e6db72696.jpg" alt="Girl in a jacket" width="400" height="300">
    </div>
