@@ -608,20 +608,15 @@ img.hover-shadow {
 
 
 
-  * {box-sizing: border-box;}
-body {font-family: Verdana, sans-serif;}
-.mySlides {display: none;}
-img {vertical-align: middle;}
-
 /* Slideshow container */
-.slideshow-container {
+.GrupoImagenes {
   max-width: 1000px;
   position: relative;
   margin: auto;
 }
 
 /* Caption text */
-.text {
+.textual {
   color: green;
   font-size: 15px;
   padding: 8px 12px;
@@ -632,7 +627,7 @@ img {vertical-align: middle;}
 }
 
 /* Number text (1/3 etc) */
-.numbertext {
+.numero {
   color: #f2f2f2;
   font-size: 12px;
   padding: 8px 12px;
@@ -641,7 +636,7 @@ img {vertical-align: middle;}
 }
 
 /* The dots/bullets/indicators */
-.dot {
+.doting {
   height: 15px;
   width: 15px;
   margin: 0 2px;
@@ -659,16 +654,6 @@ img {vertical-align: middle;}
 .fade {
   animation-name: fade;
   animation-duration: 1.5s;
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .text {font-size: 11px}
 }
 
 
@@ -1016,58 +1001,46 @@ img {vertical-align: middle;}
 
 
 
-<div class="slideshow-container">
+<div class="GrupoImagenes">
 
-<div class="mySlides fade">
-  <div class="numbertext">1 / 6</div>
+<div class="Sliter fade">
+  <div class="numero">1 / 6</div>
   <img src="https://i.pinimg.com/736x/ac/ba/28/acba2836c507e66eb0fbfbd6ebfe5a63.jpg" style="width:100%">
-  <div class="text">Procesos</div>
+  <div class="textual">Procesos</div>
 </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">2 / 6</div>
+<div class="Sliter fade">
+  <div class="numero">2 / 6</div>
   <img src="https://i.pinimg.com/736x/07/98/83/079883d1174c5a85181a5e9cf116972d.jpg" style="width:100%">
-  <div class="text">Fallas</div>
+  <div class="textual">Fallas</div>
 </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">3 / 6</div>
+<div class="Sliter fade">
+  <div class="numero">3 / 6</div>
   <img src="https://i.pinimg.com/736x/4b/c9/bd/4bc9bd226fd4f7442c62c5bf223c6f3b.jpg" style="width:100%">
-  <div class="text">Efectos</div>
+  <div class="textual">Efectos</div>
 </div>
 
 
-<div class="mySlides fade">
-  <div class="numbertext">4 / 6</div>
+<div class="Sliter fade">
+  <div class="numero">4 / 6</div>
   <img src="https://i.pinimg.com/736x/63/04/0e/63040e20e85efd172061a1d4d5a8e926.jpg" style="width:100%">
-  <div class="text">Modo</div>
+  <div class="textual">Modo</div>
 </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">5 / 6</div>
+<div class="Sliter fade">
+  <div class="numero">5 / 6</div>
   <img src="https://i.pinimg.com/736x/0d/02/93/0d029394ddf2dde8999f180f484d4b68.jpg" style="width:100%">
-  <div class="text">Diagnostico</div>
+  <div class="textual">Diagnostico</div>
 </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">6 / 6</div>
+<div class="Sliter fade">
+  <div class="numero">6 / 6</div>
   <img src="https://i.pinimg.com/736x/0c/6f/cc/0c6fcc3fbdb8c3e8152ec720d38a92ad.jpg" style="width:100%">
-  <div class="text">Analisis</div>
+  <div class="textual">Analisis</div>
 </div>
 
 </div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-</div>
-
-
 
 
 
@@ -1573,14 +1546,13 @@ function showSlides(n) {
 
 
 
-// Nuevo
-  let slideIndex = 0;
+let slideIndex = 0;
 showSlides();
 
 function showSlides() {
   let i;
-  let slides = document.getElementsByClassName("mySlides");
-  let dots = document.getElementsByClassName("dot");
+  let slides = document.getElementsByClassName("Sliter");
+  let dots = document.getElementsByClassName("doting");
   for (i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";  
   }
