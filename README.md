@@ -1053,6 +1053,9 @@ El CEP no solo mejora la calidad, sino que también aumenta la eficiencia del pr
   <div class="column">
     <img src="https://i.pinimg.com/736x/9b/05/ba/9b05ba561a1c0e47548e613d7e07d1b8.jpg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
   </div>
+    <div class="column">
+    <img src="https://i.pinimg.com/736x/16/03/5d/16035d193f863a0ea5d14338124e2b92.jpg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+  </div>
 </div>
 
 <div id="myModal" class="modal">
